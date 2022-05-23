@@ -1,1 +1,1 @@
-![crud](https://user-images.githubusercontent.com/81103783/169842719-6cc1f2ae-7db0-4d88-8830-fcf9ddaea746.PNG)
+![crudbasico](https://user-images.githubusercontent.com/81103783/169843068-8c6b56d6-b3bd-4f3d-86d9-2a12059abc8f.PNG)
